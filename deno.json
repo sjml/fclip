@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@prettier/plugin-php": "npm:@prettier/plugin-php@^0.22.2",
+    "@prettier/plugin-ruby": "npm:@prettier/plugin-ruby@^4.0.4",
+    "@prettier/plugin-xml": "npm:@prettier/plugin-xml@^3.4.1",
+    "prettier": "npm:prettier@^3.3.3",
+    "prettier-plugin-rust": "npm:prettier-plugin-rust@^0.1.9",
+    "prettier-plugin-sql": "npm:prettier-plugin-sql@^0.18.1",
+    "prettier-plugin-svelte": "npm:prettier-plugin-svelte@^3.2.7",
+    "prettier-plugin-toml": "npm:prettier-plugin-toml@^2.0.1"
+  }
+}
